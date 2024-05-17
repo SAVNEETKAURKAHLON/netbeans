@@ -11,6 +11,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
  * each student can: say their name (getName)
  * this is change made on github
  * @author dancye May 7, 2018
+ *change to show 
  */
 public class Student 
 {
